@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-99y)h=)!*6j%4c*661ezrc*7biay55*2(!t7r&7$$(q+xla1k+
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ['','https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://blogbreeze.onrender.com','https://*.127.0.0.1']
 
 
 # Application definition
